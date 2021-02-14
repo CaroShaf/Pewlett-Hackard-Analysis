@@ -16,7 +16,7 @@ Retirements by Department/Title Pie Chart [https://github.com/CaroShaf/Pewlett-H
 80%) of them are either senior staff and technical/engineering positions.
 * Positions for highly skilled/educated workers will be opening at a rapid pace.
 
-Mentorship Eligibility Pivot Table []
+Mentorship Eligibility Pivot Table [https://github.com/CaroShaf/Pewlett-Hackard-Analysis/blob/master/availablementorsbytitle.png]
 * Only about 1% of the post-"silver tsunami" workforce will be eligible to serve as part-time mentors.  Giving the large number of retirements across all departments, it is
 critical to recruit these mentors to assist with transition.  
 * It might make the most sense for mentors in each title to be mentors for incoming employees at their own levels, but in the case of, say, senior engineers, there may be fewer
